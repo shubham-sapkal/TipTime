@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tip Time</string>
+
+    <string name="tip_amount">Tip Amount: %s</string>
+</resources>
